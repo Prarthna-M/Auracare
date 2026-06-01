@@ -93,3 +93,11 @@ GEMINI_API_KEY=your_key
 | Database collections | 6 |
 | Supported allergens | 16 |
 | AI models | 3 |
+
+---
+
+## Made by
+1. Muralisekar Janissha
+2.  Prarthna M
+3.  Priya Verma
+
