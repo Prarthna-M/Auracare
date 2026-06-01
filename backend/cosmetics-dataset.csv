@@ -1,0 +1,542 @@
+ingredient,hazardScore,riskLevel,suitableFor,notSuitableFor,description
+Water,0,Low,Oily Dry Sensitive Normal,None,Base solvent used in cosmetics
+Glycerin,1,Low,Oily Dry Sensitive Normal,None,Humectant that hydrates skin
+Hyaluronic Acid,0,Low,Oily Dry Sensitive Normal,None,Powerful hydration ingredient
+Niacinamide,1,Low,Oily Dry Sensitive Normal,None,Vitamin B3 improves skin barrier
+Ceramides,0,Low,Oily Dry Sensitive Normal,None,Restores skin barrier
+Panthenol,0,Low,Oily Dry Sensitive Normal,None,Vitamin B5 soothing ingredient
+Aloe Vera,0,Low,Oily Dry Sensitive Normal,None,Soothing plant extract
+Green Tea Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant ingredient
+Vitamin C,2,Low,Oily Normal,Sensitive,Brightening antioxidant
+Vitamin E,1,Low,Oily Dry Sensitive Normal,None,Antioxidant moisturizer
+Titanium Dioxide,2,Low,Oily Dry Sensitive Normal,None,UV filter sunscreen ingredient
+Zinc Oxide,1,Low,Oily Dry Sensitive Normal,None,Physical sunscreen
+Allantoin,0,Low,Oily Dry Sensitive Normal,None,Soothing skin protectant
+Squalane,0,Low,Oily Dry Sensitive Normal,None,Lightweight moisturizing oil
+Argan Oil,1,Low,Dry Normal,Oily,Nourishing plant oil
+Jojoba Oil,1,Low,Oily Dry Normal,Sensitive,Moisturizing oil similar to sebum
+Rosehip Oil,1,Low,Dry Normal,Oily,Nourishing plant oil
+Chamomile Extract,0,Low,Sensitive Dry,Oily,Anti-inflammatory botanical
+Licorice Extract,1,Low,Sensitive Normal,Oily,Brightening botanical ingredient
+Centella Asiatica,0,Low,Sensitive Dry,Oily,Healing plant extract
+Salicylic Acid,4,Moderate,Oily Acne,Dry Sensitive,Acne treatment exfoliant
+Glycolic Acid,4,Moderate,Oily Normal,Sensitive,Dermatological exfoliant
+Lactic Acid,3,Moderate,Dry Normal,Sensitive,Hydrating exfoliant
+Retinol,6,Moderate,Oily Normal,Sensitive,Anti aging vitamin A derivative
+Benzoyl Peroxide,5,Moderate,Oily Acne,Dry Sensitive,Acne treatment antibacterial
+Tea Tree Oil,4,Moderate,Oily Acne,Sensitive,Natural antimicrobial oil
+Witch Hazel,3,Moderate,Oily,Dry Sensitive,Astringent plant extract
+Menthol,4,Moderate,Oily,Sensitive,Drying cooling compound
+Eucalyptus Oil,4,Moderate,Oily,Sensitive,Fragrant essential oil
+Camphor,4,Moderate,Oily,Sensitive,Cooling irritant compound
+Phenoxyethanol,3,Moderate,Oily Dry Normal,Sensitive,Cosmetic preservative
+Ethylhexylglycerin,2,Low,Oily Dry Sensitive Normal,None,Preservative booster
+Caprylyl Glycol,2,Low,Oily Dry Sensitive Normal,None,Moisturizing preservative
+Dimethicone,1,Low,Oily Dry Sensitive Normal,None,Skin smoothing silicone
+Cyclopentasiloxane,2,Low,Oily Dry Normal,Sensitive,Volatile silicone
+Cyclohexasiloxane,2,Low,Oily Dry Normal,Sensitive,Silicone emollient
+PEG-40 Hydrogenated Castor Oil,3,Moderate,Oily Dry Normal,Sensitive,Emulsifier
+Polysorbate 20,2,Low,Oily Dry Sensitive Normal,None,Emulsifier
+Polysorbate 80,2,Low,Oily Dry Sensitive Normal,None,Emulsifier
+Carbomer,1,Low,Oily Dry Sensitive Normal,None,Gel thickening agent
+Xanthan Gum,0,Low,Oily Dry Sensitive Normal,None,Natural thickener
+Guar Gum,0,Low,Oily Dry Sensitive Normal,None,Natural stabilizer
+Sodium Chloride,1,Low,Oily Dry Sensitive Normal,None,Common salt thickener
+Propylene Glycol,3,Moderate,Oily Normal,Dry Sensitive,Humectant solvent
+Butylene Glycol,2,Low,Oily Dry Sensitive Normal,None,Moisture retaining solvent
+Pentylene Glycol,2,Low,Oily Dry Sensitive Normal,None,Humectant
+Sodium Hyaluronate,0,Low,Oily Dry Sensitive Normal,None,Hyaluronic acid derivative
+Sodium PCA,1,Low,Oily Dry Sensitive Normal,None,Natural moisturizing factor
+Urea,2,Low,Dry Normal,Sensitive,Hydrating keratolytic
+Betaine,0,Low,Oily Dry Sensitive Normal,None,Moisturizing amino acid
+Caffeine,1,Low,Oily Normal,Sensitive,Stimulating antioxidant
+Coenzyme Q10,1,Low,Oily Dry Normal,Sensitive,Anti aging antioxidant
+Resveratrol,1,Low,Oily Dry Normal,Sensitive,Plant antioxidant
+Ferulic Acid,2,Low,Oily Normal,Sensitive,Stabilizes vitamin C
+Azelaic Acid,3,Moderate,Oily Acne,Dry Sensitive,Acne and rosacea treatment
+Tranexamic Acid,3,Moderate,Oily Normal,Sensitive,Hyperpigmentation treatment
+Kojic Acid,5,Moderate,Oily Normal,Sensitive,Skin lightening ingredient
+Arbutin,3,Moderate,Oily Normal,Sensitive,Brightening agent
+Alpha Arbutin,2,Low,Oily Dry Sensitive Normal,None,Stable brightening ingredient
+Hydroquinone,8,High,None,All,Strong skin bleaching chemical
+Parabens,7,High,None,All,Hormone disrupting preservative
+Methylparaben,6,Moderate,Oily Normal,Sensitive,Preservative
+Propylparaben,7,High,None,All,Preservative linked to hormone effects
+Butylparaben,7,High,None,All,Endocrine disrupting preservative
+Formaldehyde,10,High,None,All,Known carcinogenic preservative
+DMDM Hydantoin,8,High,None,All,Formaldehyde releasing preservative
+Imidazolidinyl Urea,7,High,None,All,Formaldehyde releasing preservative
+Diazolidinyl Urea,7,High,None,All,Formaldehyde releasing preservative
+Quaternium-15,9,High,None,All,Formaldehyde releasing preservative
+Sodium Lauryl Sulfate,5,Moderate,Oily,Dry Sensitive,Harsh cleansing surfactant
+Sodium Laureth Sulfate,4,Moderate,Oily,Dry Sensitive,Cleansing surfactant
+Cocamidopropyl Betaine,3,Moderate,Oily Normal,Sensitive,Foaming surfactant
+Ammonium Lauryl Sulfate,5,Moderate,Oily,Dry Sensitive,Strong detergent surfactant
+Triclosan,8,High,None,All,Antibacterial endocrine disruptor
+Triclocarban,8,High,None,All,Antibacterial chemical
+Phthalates,9,High,None,All,Plasticizing hormone disruptors
+Diethyl Phthalate,7,High,None,All,Fragrance solvent
+Dibutyl Phthalate,9,High,None,All,Reproductive toxin
+Oxybenzone,8,High,None,All,UV filter endocrine disruptor
+Octinoxate,7,High,None,All,UV filter linked to hormone disruption
+Homosalate,6,Moderate,Oily Normal,Sensitive,UV filter
+Avobenzone,4,Moderate,Oily Dry Normal,Sensitive,UV filter sunscreen
+Octocrylene,5,Moderate,Oily Normal,Sensitive,UV filter stabilizer
+BHT,6,Moderate,Oily Normal,Sensitive,Preservative antioxidant
+BHA,8,High,None,All,Potential carcinogen preservative
+Coal Tar,9,High,None,All,Carcinogenic dye ingredient
+Talc,7,High,None,All,Possible asbestos contamination risk
+Lead Acetate,10,High,None,All,Toxic heavy metal compound
+Mercury,10,High,None,All,Highly toxic heavy metal
+Aluminum Chloride,6,Moderate,Oily Normal,Sensitive,Antiperspirant ingredient
+Aluminum Zirconium,6,Moderate,Oily Normal,Sensitive,Antiperspirant compound
+Fragrance,6,Moderate,Oily Normal,Sensitive,Allergen mixture
+Synthetic Fragrance,7,High,None,All,Allergenic fragrance blend
+Limonene,4,Moderate,Oily Normal,Sensitive,Fragrance allergen
+Linalool,4,Moderate,Oily Normal,Sensitive,Fragrance allergen
+Citral,4,Moderate,Oily Normal,Sensitive,Fragrance allergen
+Geraniol,3,Moderate,Oily Normal,Sensitive,Fragrance component
+Coumarin,4,Moderate,Oily Normal,Sensitive,Fragrance allergen
+Benzyl Alcohol,3,Moderate,Oily Normal,Sensitive,Preservative solvent
+Benzyl Salicylate,4,Moderate,Oily Normal,Sensitive,Fragrance allergen
+Hexyl Cinnamal,4,Moderate,Oily Normal,Sensitive,Fragrance compound
+Amyl Cinnamal,4,Moderate,Oily Normal,Sensitive,Fragrance compound
+Cinnamal,4,Moderate,Oily Normal,Sensitive,Fragrance allergen
+Isopropyl Alcohol,3,Moderate,Oily,Dry Sensitive,Drying solvent
+Denatured Alcohol,4,Moderate,Oily,Dry Sensitive,Drying cosmetic solvent
+Isopropyl Myristate,3,Moderate,Oily Normal,Sensitive,Pore clogging emollient
+Mineral Oil,2,Low,Dry Normal,Oily,Occlusive moisturizer
+Petrolatum,1,Low,Dry Normal,Oily,Barrier protecting ointment
+Lanolin,3,Moderate,Dry Normal,Sensitive,Animal derived moisturizer
+Beeswax,1,Low,Oily Dry Sensitive Normal,None,Natural wax emollient
+Shea Butter,1,Low,Dry Normal,Oily,Nourishing plant butter
+Coconut Oil,2,Low,Dry Normal,Oily,Pore clogging oil
+Sunflower Oil,1,Low,Oily Dry Sensitive Normal,None,Plant oil moisturizer
+Olive Oil,1,Low,Dry Normal,Oily,Nourishing oil
+Castor Oil,1,Low,Dry Normal,Oily,Thick plant oil
+Marula Oil,1,Low,Oily Dry Sensitive Normal,None,Lightweight antioxidant oil
+Moringa Oil,1,Low,Oily Dry Sensitive Normal,None,Nourishing plant oil
+Avocado Oil,1,Low,Dry Normal,Oily,Rich moisturizing oil
+Apricot Kernel Oil,1,Low,Oily Dry Sensitive Normal,None,Lightweight nourishing oil
+Grapeseed Oil,1,Low,Oily Dry Sensitive Normal,None,Antioxidant lightweight oil
+Evening Primrose Oil,2,Low,Dry Normal,Oily,GLA rich nourishing oil
+Borage Oil,2,Low,Dry Normal,Oily,Gamma linolenic acid source
+Hemp Seed Oil,2,Low,Dry Normal,Oily,Balancing oil for dry skin
+Rosehip Seed Oil,2,Low,Dry Normal,Oily,Regenerating essential fatty acids
+Safflower Oil,1,Low,Oily Dry Sensitive Normal,None,Linoleic acid rich oil
+Cranberry Seed Oil,2,Low,Dry Normal,Oily,Antioxidant rich plant oil
+Pomegranate Seed Oil,2,Low,Dry Normal,Oily,Punicic acid rich oil
+Black Cumin Seed Oil,3,Moderate,Oily Normal,Sensitive,Thymoquinone anti-inflammatory
+Neem Oil,4,Moderate,Oily Acne,Sensitive,Antibacterial plant oil
+Tamanu Oil,3,Moderate,Dry Normal,Sensitive,Wound healing plant oil
+Sea Buckthorn Oil,2,Low,Dry Normal,Oily,Vitamin C rich nourishing oil
+Baobab Oil,1,Low,Oily Dry Sensitive Normal,None,Lightweight moisturizing oil
+Kukui Nut Oil,1,Low,Oily Dry Sensitive Normal,None,Quick absorbing Polynesian oil
+Macadamia Oil,1,Low,Dry Normal,Oily,Skin identical fatty acids
+Soybean Oil,2,Low,Dry Normal,Oily,Emollient plant oil
+Wheat Germ Oil,2,Low,Dry Normal,Oily,Vitamin E rich oil
+Sesame Oil,2,Low,Dry Normal,Oily,Antioxidant plant oil
+Almond Oil,2,Low,Dry Normal,Sensitive,Gentle nourishing oil
+Peach Kernel Oil,1,Low,Oily Dry Sensitive Normal,None,Lightweight moisturizing oil
+Plum Kernel Oil,1,Low,Oily Dry Sensitive Normal,None,Quick absorbing nourishing oil
+Camelina Oil,1,Low,Oily Dry Sensitive Normal,None,Omega rich plant oil
+Chia Seed Oil,1,Low,Oily Dry Sensitive Normal,None,Antioxidant omega source
+Linseed Oil,2,Low,Dry Normal,Oily,Flaxseed oil nourishing
+Pumpkin Seed Oil,2,Low,Dry Normal,Oily,Zinc rich nourishing oil
+Watermelon Seed Oil,1,Low,Oily Dry Sensitive Normal,None,Lightweight moisturizing oil
+Broccoli Seed Oil,1,Low,Oily Dry Sensitive Normal,None,Silicone alternative oil
+Raspberry Seed Oil,2,Low,Dry Normal,Oily,Natural SPF nourishing oil
+Blueberry Seed Oil,2,Low,Dry Normal,Oily,Antioxidant rich plant oil
+Strawberry Seed Oil,1,Low,Oily Dry Sensitive Normal,None,Nourishing fruit oil
+Blackberry Seed Oil,1,Low,Oily Dry Sensitive Normal,None,Antioxidant fruit oil
+Tomato Seed Oil,2,Low,Dry Normal,Oily,Lycopene rich oil
+Carrot Seed Oil,3,Moderate,Dry Normal,Sensitive,Regenerating essential oil
+Carrot Oil,2,Low,Dry Normal,Oily,Beta carotene infused oil
+Calendula Oil,1,Low,Sensitive Dry,Oily,Soothing infused oil
+St. John's Wort Oil,3,Moderate,Dry Normal,Sensitive,Anti-inflammatory infused oil
+Arnica Oil,3,Moderate,Oily Normal,Sensitive,Bruise healing infused oil
+Comfrey Oil,2,Low,Dry Normal,Sensitive,Allantoin rich healing oil
+Meadowfoam Seed Oil,1,Low,Oily Dry Sensitive Normal,None,Stable long chain oil
+Rice Bran Oil,1,Low,Oily Dry Sensitive Normal,None,Antioxidant moisturizing oil
+Oat Oil,1,Low,Sensitive Dry,Oily,Soothing nourishing oil
+Illipe Butter,1,Low,Dry Normal,Oily,Moisturizing plant butter
+Kokum Butter,1,Low,Dry Normal,Oily,Non-comedogenic plant butter
+Mango Butter,1,Low,Dry Normal,Oily,Nourishing plant butter
+Cocoa Butter,2,Low,Dry Normal,Oily,Pore clogging moisturizer
+Cupuacu Butter,1,Low,Dry Normal,Oily,Moisturizing Amazonian butter
+Murumuru Butter,1,Low,Dry Normal,Oily,Lightweight plant butter
+Tucuma Butter,1,Low,Dry Normal,Oily,Moisturizing Amazonian butter
+Bacuri Butter,1,Low,Dry Normal,Oily,Nourishing Brazilian butter
+Ucuuba Butter,2,Low,Dry Normal,Oily,Moisturizing Amazonian butter
+Pataua Oil,1,Low,Oily Dry Sensitive Normal,None,Amazonian nourishing oil
+Buriti Oil,2,Low,Dry Normal,Oily,Beta carotene rich oil
+Andiroba Oil,3,Moderate,Oily Normal,Sensitive,Anti-inflammatory Amazonian oil
+Copaiba Oil,2,Low,Dry Normal,Oily,Resin oil anti-inflammatory
+Brazil Nut Oil,1,Low,Oily Dry Sensitive Normal,None,Selenium rich nourishing oil
+Cacay Oil,1,Low,Oily Dry Sensitive Normal,None,Retinol alternative natural oil
+Papaya Seed Oil,2,Low,Dry Normal,Oily,Enzyme rich nourishing oil
+Passion Fruit Oil,1,Low,Oily Dry Sensitive Normal,None,Maracuja lightweight oil
+Pracaxi Oil,2,Low,Dry Normal,Oily,Behenic acid rich healing oil
+Candlenut Oil,1,Low,Oily Dry Sensitive Normal,None,Polynesian nourishing oil
+Tsubaki Oil,1,Low,Oily Dry Sensitive Normal,None,Camellia Japanese beauty oil
+Camellia Oil,1,Low,Oily Dry Sensitive Normal,None,Traditional Asian beauty oil
+Perilla Oil,2,Low,Dry Normal,Oily,Omega rich Korean oil
+Sacha Inchi Oil,2,Low,Dry Normal,Oily,Omega rich Peruvian oil
+Hazelnut Oil,1,Low,Oily Dry Normal,Sensitive,Astringent nourishing oil
+Pecan Oil,1,Low,Dry Normal,Oily,Lightweight nourishing oil
+Pistachio Oil,1,Low,Oily Dry Sensitive Normal,None,Nourishing nut oil
+Walnut Oil,2,Low,Dry Normal,Oily,Omega rich nut oil
+Algae Extract,1,Low,Oily Dry Sensitive Normal,None,Marine moisturizing ingredient
+Spirulina Extract,1,Low,Oily Dry Sensitive Normal,None,Blue-green algae nutrient
+Chlorella Extract,1,Low,Oily Dry Sensitive Normal,None,Green algae nutrient
+Seaweed Extract,1,Low,Oily Dry Sensitive Normal,None,Mineral rich marine extract
+Kelp Extract,1,Low,Oily Dry Sensitive Normal,None,Iodine rich marine ingredient
+Laminaria Extract,1,Low,Oily Dry Sensitive Normal,None,Brown algae moisturizer
+Fucus Extract,1,Low,Oily Dry Sensitive Normal,None,Bladderwrack seaweed
+Ascophyllum Extract,1,Low,Oily Dry Sensitive Normal,None,Brown algae antioxidant
+Ulva Extract,1,Low,Oily Dry Sensitive Normal,None,Sea lettuce algae
+Codium Extract,1,Low,Oily Dry Sensitive Normal,None,Green algae moisturizer
+Gelidium Extract,1,Low,Oily Dry Sensitive Normal,None,Red algae thickener
+Porphyra Extract,1,Low,Oily Dry Sensitive Normal,None,Nori seaweed nutrient
+Palmaria Extract,1,Low,Oily Dry Sensitive Normal,None,Dulse seaweed mineral rich
+Corallina Extract,1,Low,Oily Dry Sensitive Normal,None,Calcareous red algae
+Lithothamnium Extract,1,Low,Oily Dry Sensitive Normal,None,Mineral rich algae
+Dunaliella Extract,1,Low,Oily Dry Sensitive Normal,None,Beta carotene algae
+Haematococcus Extract,2,Low,Oily Dry Normal,Sensitive,Astaxanthin rich algae
+AstaReal Oil,2,Low,Oily Dry Normal,Sensitive,Stabilized astaxanthin
+Haematococcus Pluvialis,2,Low,Oily Dry Normal,Sensitive,Astaxanthin source algae
+Astaxanthin,2,Low,Oily Dry Normal,Sensitive,Powerful red antioxidant
+Beta-Carotene,1,Low,Oily Dry Sensitive Normal,None,Orange pigment antioxidant
+Lycopene,1,Low,Oily Dry Sensitive Normal,None,Red tomato antioxidant
+Lutein,1,Low,Oily Dry Sensitive Normal,None,Green/yellow antioxidant
+Zeaxanthin,1,Low,Oily Dry Sensitive Normal,None,Yellow antioxidant
+Cryptoxanthin,1,Low,Oily Dry Sensitive Normal,None,Carotenoid antioxidant
+Canthaxanthin,1,Low,Oily Dry Sensitive Normal,None,Orange-red antioxidant
+Fucoxanthin,1,Low,Oily Dry Sensitive Normal,None,Brown algae antioxidant
+Sargassum Extract,1,Low,Oily Dry Sensitive Normal,None,Brown algae nutrient
+Undaria Extract,1,Low,Oily Dry Sensitive Normal,None,Wakame seaweed extract
+Hijiki Extract,1,Low,Oily Dry Sensitive Normal,None,Brown algae nutrient
+Arame Extract,1,Low,Oily Dry Sensitive Normal,None,Brown algae mineral rich
+Kombu Extract,1,Low,Oily Dry Sensitive Normal,None,Japanese kelp extract
+Nori Extract,1,Low,Oily Dry Sensitive Normal,None,Red algae nutrient rich
+Dulse Extract,1,Low,Oily Dry Sensitive Normal,None,Red algae mineral rich
+Irish Moss Extract,0,Low,Oily Dry Sensitive Normal,None,Chondrus crispus thickener
+Carrageenan,1,Low,Oily Dry Normal,Sensitive,Seaweed derived thickener
+Algin,0,Low,Oily Dry Sensitive Normal,None,Seaweed derived thickener
+Alginic Acid,0,Low,Oily Dry Sensitive Normal,None,Seaweed polysaccharide
+Sodium Alginate,0,Low,Oily Dry Sensitive Normal,None,Seaweed gelling agent
+Potassium Alginate,0,Low,Oily Dry Sensitive Normal,None,Seaweed derivative
+Calcium Alginate,0,Low,Oily Dry Sensitive Normal,None,Seaweed based thickener
+Propylene Glycol Alginate,2,Low,Oily Dry Sensitive Normal,None,Modified seaweed thickener
+Agar,0,Low,Oily Dry Sensitive Normal,None,Seaweed derived gelling agent
+Agarose,0,Low,Oily Dry Sensitive Normal,None,Purified agar derivative
+Furcellaran,0,Low,Oily Dry Sensitive Normal,None,Red seaweed thickener
+Hypnea Extract,0,Low,Oily Dry Sensitive Normal,None,Red algae extract
+Gelidiella Extract,0,Low,Oily Dry Sensitive Normal,None,Red algae extract
+Eucheuma Extract,1,Low,Oily Dry Sensitive Normal,None,Red algae carrageenan source
+Kappaphycus Extract,1,Low,Oily Dry Sensitive Normal,None,Red algae carrageenan source
+Betaine Salicylate,3,Moderate,Oily Normal,Sensitive,Gentle exfoliant
+Gluconolactone,2,Low,Oily Dry Sensitive Normal,None,PHA gentle exfoliant
+Lactobionic Acid,2,Low,Oily Dry Sensitive Normal,None,PHA hydrating exfoliant
+Maltobionic Acid,2,Low,Oily Dry Sensitive Normal,None,PHA exfoliant
+Polyhydroxy Acids,2,Low,Oily Dry Sensitive Normal,None,PHA category gentle exfoliants
+Mandelic Acid,3,Moderate,Oily Normal,Sensitive,Larger molecule AHA exfoliant
+Malic Acid,2,Low,Oily Dry Sensitive Normal,None,Fruit derived AHA
+Tartaric Acid,2,Low,Oily Dry Sensitive Normal,None,Grape derived AHA
+Citric Acid,2,Low,Oily Dry Sensitive Normal,None,pH adjuster AHA
+Ascorbic Acid,4,Moderate,Oily Normal,Sensitive,Pure vitamin C L-ascorbic acid
+Sodium Ascorbyl Phosphate,2,Low,Oily Dry Sensitive Normal,None,Stable vitamin C derivative
+Magnesium Ascorbyl Phosphate,2,Low,Oily Dry Sensitive Normal,None,Stable vitamin C gentle
+Ascorbyl Glucoside,2,Low,Oily Dry Sensitive Normal,None,Stable vitamin C derivative
+Ascorbyl Tetraisopalmitate,2,Low,Oily Dry Sensitive Normal,None,Oil soluble vitamin C
+Tetrahexyldecyl Ascorbate,2,Low,Oily Dry Sensitive Normal,None,Lipophilic vitamin C
+Ascorbyl Palmitate,2,Low,Oily Dry Sensitive Normal,None,Fat soluble vitamin C ester
+3-O-Ethyl Ascorbic Acid,2,Low,Oily Dry Sensitive Normal,None,Stable vitamin C derivative
+Ascorbic Acid Polypeptide,2,Low,Oily Dry Sensitive Normal,None,Stabilized vitamin C
+Aminopropyl Ascorbyl Phosphate,2,Low,Oily Dry Sensitive Normal,None,Stable vitamin C
+Tocopherol,1,Low,Oily Dry Sensitive Normal,None,Vitamin E natural form
+Tocopheryl Acetate,1,Low,Oily Dry Sensitive Normal,None,Stabilized vitamin E ester
+Tocophersolan,1,Low,Oily Dry Sensitive Normal,None,Water soluble vitamin E
+Tocotrienols,1,Low,Oily Dry Sensitive Normal,None,Vitamin E family antioxidant
+Mixed Tocopherols,1,Low,Oily Dry Sensitive Normal,None,Vitamin E complex
+Retinyl Palmitate,4,Moderate,Oily Normal,Sensitive,Vitamin A ester gentle
+Retinyl Acetate,4,Moderate,Oily Normal,Sensitive,Vitamin A ester form
+Retinyl Linoleate,4,Moderate,Oily Normal,Sensitive,Vitamin A with linoleic acid
+Retinaldehyde,5,Moderate,Oily Normal,Sensitive,Intermediate retinoid
+Retinoic Acid,9,High,None,All,Prescription tretinoin strong
+Tretinoin,9,High,None,All,Prescription retinoid
+Isotretinoin,9,High,None,All,Accutane active ingredient
+Adapalene,6,Moderate,Oily Normal,Sensitive,Synthetic retinoid for acne
+Tazarotene,8,High,None,All,Strong synthetic retinoid
+Bakuchiol,2,Low,Oily Dry Sensitive Normal,None,Plant retinol alternative
+Bidens Pilosa Extract,2,Low,Oily Dry Sensitive Normal,None,Natural retinol alternative
+Rumex Occidentalis Extract,2,Low,Oily Dry Sensitive Normal,None,Natural retinol alternative
+Daucus Carota Extract,2,Low,Oily Dry Sensitive Normal,None,Carrot extract vitamin A
+Rosa Canina Extract,2,Low,Oily Dry Sensitive Normal,None,Rosehip extract vitamin A
+Cucumber Extract,0,Low,Oily Dry Sensitive Normal,None,Soothing hydrating extract
+Cucumis Sativus Extract,0,Low,Oily Dry Sensitive Normal,None,Cucumber fruit extract
+Watermelon Extract,0,Low,Oily Dry Sensitive Normal,None,Hydrating fruit extract
+Citrullus Lanatus Extract,0,Low,Oily Dry Sensitive Normal,None,Watermelon fruit extract
+Pumpkin Extract,1,Low,Oily Dry Sensitive Normal,None,Enzyme rich fruit extract
+Cucurbita Pepo Extract,1,Low,Oily Dry Sensitive Normal,None,Pumpkin fruit extract
+Apple Extract,1,Low,Oily Dry Sensitive Normal,None,Fruit acid natural extract
+Pyrus Malus Extract,1,Low,Oily Dry Sensitive Normal,None,Apple fruit extract
+Grape Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant fruit extract
+Vitis Vinifera Extract,1,Low,Oily Dry Sensitive Normal,None,Grape fruit extract
+Blueberry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Vaccinium Angustifolium Extract,1,Low,Oily Dry Sensitive Normal,None,Blueberry fruit extract
+Cranberry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Vaccinium Macrocarpon Extract,1,Low,Oily Dry Sensitive Normal,None,Cranberry fruit extract
+Raspberry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Rubus Idaeus Extract,1,Low,Oily Dry Sensitive Normal,None,Raspberry fruit extract
+Blackberry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Rubus Fruticosus Extract,1,Low,Oily Dry Sensitive Normal,None,Blackberry fruit extract
+Strawberry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant fruit extract
+Fragaria Vesca Extract,1,Low,Oily Dry Sensitive Normal,None,Strawberry fruit extract
+Cherry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant fruit extract
+Prunus Avium Extract,1,Low,Oily Dry Sensitive Normal,None,Cherry fruit extract
+Plum Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant fruit extract
+Prunus Domestica Extract,1,Low,Oily Dry Sensitive Normal,None,Plum fruit extract
+Peach Extract,1,Low,Oily Dry Sensitive Normal,None,Soothing fruit extract
+Prunus Persica Extract,1,Low,Oily Dry Sensitive Normal,None,Peach fruit extract
+Apricot Extract,1,Low,Oily Dry Sensitive Normal,None,Nourishing fruit extract
+Prunus Armeniaca Extract,1,Low,Oily Dry Sensitive Normal,None,Apricot fruit extract
+Pear Extract,1,Low,Oily Dry Sensitive Normal,None,Soothing fruit extract
+Pyrus Communis Extract,1,Low,Oily Dry Sensitive Normal,None,Pear fruit extract
+Banana Extract,1,Low,Oily Dry Sensitive Normal,None,Nourishing fruit extract
+Musa Sapientum Extract,1,Low,Oily Dry Sensitive Normal,None,Banana fruit extract
+Papaya Extract,2,Low,Oily Dry Normal,Sensitive,Enzyme exfoliant fruit
+Carica Papaya Extract,2,Low,Oily Dry Normal,Sensitive,Papaya fruit extract
+Pineapple Extract,2,Low,Oily Dry Normal,Sensitive,Bromelain enzyme fruit
+Ananas Sativus Extract,2,Low,Oily Dry Normal,Sensitive,Pineapple fruit extract
+Mango Extract,1,Low,Oily Dry Sensitive Normal,None,Nourishing fruit extract
+Mangifera Indica Extract,1,Low,Oily Dry Sensitive Normal,None,Mango fruit extract
+Kiwi Extract,1,Low,Oily Dry Sensitive Normal,None,Vitamin C rich fruit
+Actinidia Chinensis Extract,1,Low,Oily Dry Sensitive Normal,None,Kiwi fruit extract
+Passion Fruit Extract,1,Low,Oily Dry Sensitive Normal,None,Nourishing fruit extract
+Passiflora Edulis Extract,1,Low,Oily Dry Sensitive Normal,None,Passion fruit extract
+Guava Extract,1,Low,Oily Dry Sensitive Normal,None,Vitamin C rich fruit
+Psidium Guajava Extract,1,Low,Oily Dry Sensitive Normal,None,Guava fruit extract
+Acai Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Euterpe Oleracea Extract,1,Low,Oily Dry Sensitive Normal,None,Acai fruit extract
+Goji Berry Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Lycium Barbarum Extract,1,Low,Oily Dry Sensitive Normal,None,Goji fruit extract
+Mulberry Extract,2,Low,Oily Dry Normal,Sensitive,Brightening plant extract
+Morus Alba Extract,2,Low,Oily Dry Normal,Sensitive,Mulberry tree extract
+Bearberry Extract,2,Low,Oily Dry Normal,Sensitive,Arbutin natural source
+Arctostaphylos Uva-Ursi Extract,2,Low,Oily Dry Normal,Sensitive,Bearberry plant extract
+Grapefruit Extract,2,Low,Oily Dry Normal,Sensitive,Citrus antioxidant extract
+Citrus Paradisi Extract,2,Low,Oily Dry Normal,Sensitive,Grapefruit fruit extract
+Orange Extract,2,Low,Oily Dry Normal,Sensitive,Citrus antioxidant extract
+Citrus Aurantium Dulcis Extract,2,Low,Oily Dry Normal,Sensitive,Orange fruit extract
+Lemon Extract,2,Low,Oily Dry Normal,Sensitive,Citrus antioxidant extract
+Citrus Limon Extract,2,Low,Oily Dry Normal,Sensitive,Lemon fruit extract
+Lime Extract,2,Low,Oily Dry Normal,Sensitive,Citrus antioxidant extract
+Citrus Aurantifolia Extract,2,Low,Oily Dry Normal,Sensitive,Lime fruit extract
+Bergamot Extract,3,Moderate,Oily Normal,Sensitive,Photosensitizing citrus extract
+Citrus Bergamia Extract,3,Moderate,Oily Normal,Sensitive,Bergamot fruit extract
+Yuzu Extract,2,Low,Oily Dry Normal,Sensitive,Japanese citrus extract
+Citrus Junos Extract,2,Low,Oily Dry Normal,Sensitive,Yuzu fruit extract
+Clementine Extract,2,Low,Oily Dry Normal,Sensitive,Gentle citrus extract
+Citrus Clementina Extract,2,Low,Oily Dry Normal,Sensitive,Clementine fruit extract
+Mandarin Extract,2,Low,Oily Dry Normal,Sensitive,Gentle citrus extract
+Citrus Reticulata Extract,2,Low,Oily Dry Normal,Sensitive,Mandarin fruit extract
+Tangerine Extract,2,Low,Oily Dry Normal,Sensitive,Citrus fruit extract
+Citrus Tangerina Extract,2,Low,Oily Dry Normal,Sensitive,Tangerine fruit extract
+Kumquat Extract,2,Low,Oily Dry Normal,Sensitive,Small citrus fruit extract
+Fortunella Margarita Extract,2,Low,Oily Dry Normal,Sensitive,Kumquat fruit extract
+Pomelo Extract,2,Low,Oily Dry Normal,Sensitive,Large citrus extract
+Citrus Maxima Extract,2,Low,Oily Dry Normal,Sensitive,Pomelo fruit extract
+Ginger Extract,2,Low,Oily Dry Normal,Sensitive,Stimulating root extract
+Zingiber Officinale Extract,2,Low,Oily Dry Normal,Sensitive,Ginger root extract
+Turmeric Extract,2,Low,Oily Dry Normal,Sensitive,Anti-inflammatory root extract
+Curcuma Longa Extract,2,Low,Oily Dry Normal,Sensitive,Turmeric root extract
+Ginseng Extract,2,Low,Oily Dry Normal,Sensitive,Energizing root extract
+Panax Ginseng Extract,2,Low,Oily Dry Normal,Sensitive,Ginseng root extract
+Licorice Root Extract,2,Low,Oily Dry Normal,Sensitive,Soothing brightening extract
+Glycyrrhiza Glabra Extract,2,Low,Oily Dry Normal,Sensitive,Licorice root extract
+Astragalus Extract,2,Low,Oily Dry Normal,Sensitive,Immune supporting herb
+Astragalus Membranaceus Extract,2,Low,Oily Dry Normal,Sensitive,Astragalus root extract
+Angelica Extract,2,Low,Oily Dry Normal,Sensitive,Traditional herbal extract
+Angelica Archangelica Extract,2,Low,Oily Dry Normal,Sensitive,Angelica root extract
+Dong Quai Extract,2,Low,Oily Dry Normal,Sensitive,Female tonic herb
+Angelica Sinensis Extract,2,Low,Oily Dry Normal,Sensitive,Dong quai root extract
+Rehmannia Extract,1,Low,Oily Dry Sensitive Normal,None,Chinese foxglove extract
+Rehmannia Glutinosa Extract,1,Low,Oily Dry Sensitive Normal,None,Rehmannia root extract
+Schisandra Extract,1,Low,Oily Dry Sensitive Normal,None,Five flavor berry extract
+Schisandra Chinensis Extract,1,Low,Oily Dry Sensitive Normal,None,Schisandra fruit extract
+Goji Extract,1,Low,Oily Dry Sensitive Normal,None,Antioxidant berry extract
+Lycium Chinense Extract,1,Low,Oily Dry Sensitive Normal,None,Goji fruit extract
+Mugwort Extract,1,Low,Sensitive Dry,Oily,Soothing herbal extract
+Artemisia Princeps Extract,1,Low,Sensitive Dry,Oily,Mugwort leaf extract
+Artemisia Vulgaris Extract,1,Low,Sensitive Dry,Oily,Common mugwort extract
+Artemisia Capillaris Extract,1,Low,Sensitive Dry,Oily,Japanese mugwort extract
+Houttuynia Cordata Extract,1,Low,Sensitive Dry,Oily,Heartleaf soothing extract
+Centipeda Cunninghamii Extract,1,Low,Sensitive Dry,Oily,Australian native extract
+Echinacea Extract,2,Low,Oily Dry Normal,Sensitive,Immune supporting herb
+Echinacea Purpurea Extract,2,Low,Oily Dry Normal,Sensitive,Purple coneflower extract
+Goldenseal Extract,2,Low,Oily Dry Normal,Sensitive,Antimicrobial herb extract
+Hydrastis Canadensis Extract,2,Low,Oily Dry Normal,Sensitive,Goldenseal root extract
+Oregon Grape Extract,2,Low,Oily Dry Normal,Sensitive,Antimicrobial herb
+Mahonia Aquifolium Extract,2,Low,Oily Dry Normal,Sensitive,Oregon grape root extract
+Barberry Extract,2,Low,Oily Dry Normal,Sensitive,Antimicrobial herb
+Berberis Vulgaris Extract,2,Low,Oily Dry Normal,Sensitive,Barberry root extract
+Tea Tree Leaf Extract,4,Moderate,Oily Acne,Sensitive,Melaleuca alternifolia
+Melaleuca Alternifolia Extract,4,Moderate,Oily Acne,Sensitive,Tea tree leaf extract
+Lavender Extract,3,Moderate,Oily Normal,Sensitive,Calming floral extract
+Lavandula Angustifolia Extract,3,Moderate,Oily Normal,Sensitive,Lavender flower extract
+Rose Extract,2,Low,Dry Normal,Sensitive,Romantic floral extract
+Rosa Damascena Extract,2,Low,Dry Normal,Sensitive,Damask rose extract
+Rosa Centifolia Extract,2,Low,Dry Normal,Sensitive,Cabbage rose extract
+Jasmine Extract,2,Low,Dry Normal,Sensitive,Exotic floral extract
+Jasminum Officinale Extract,2,Low,Dry Normal,Sensitive,Jasmine flower extract
+Neroli Extract,2,Low,Dry Normal,Sensitive,Bitter orange flower extract
+Citrus Aurantium Amara Extract,2,Low,Dry Normal,Sensitive,Neroli flower extract
+Ylang Ylang Extract,3,Moderate,Oily Normal,Sensitive,Exotic floral extract
+Cananga Odorata Extract,3,Moderate,Oily Normal,Sensitive,Ylang ylang flower extract
+Chamomile Flower Extract,0,Low,Sensitive Dry,Oily,German chamomile extract
+Matricaria Recutita Extract,0,Low,Sensitive Dry,Oily,German chamomile extract
+Roman Chamomile Extract,0,Low,Sensitive Dry,Oily,Roman chamomile extract
+Anthemis Nobilis Extract,0,Low,Sensitive Dry,Oily,Roman chamomile extract
+Calendula Flower Extract,0,Low,Sensitive Dry,Oily,Marigold soothing extract
+Calendula Officinalis Extract,0,Low,Sensitive Dry,Oily,Pot marigold extract
+Arnica Flower Extract,2,Low,Oily Dry Normal,Sensitive,Mountain arnica extract
+Arnica Montana Extract,2,Low,Oily Dry Normal,Sensitive,Arnica flower extract
+Elderflower Extract,1,Low,Oily Dry Sensitive Normal,None,Soothing floral extract
+Sambucus Nigra Extract,1,Low,Oily Dry Sensitive Normal,None,Elderflower extract
+Hibiscus Extract,2,Low,Oily Dry Normal,Sensitive,Natural AHA source
+Hibiscus Sabdariffa Extract,2,Low,Oily Dry Normal,Sensitive,Roselle hibiscus extract
+Linden Blossom Extract,1,Low,Sensitive Dry,Oily,Soothing floral extract
+Tilia Cordata Extract,1,Low,Sensitive Dry,Oily,Linden flower extract
+Cornflower Extract,1,Low,Sensitive Dry,Oily,Soothing blue flower extract
+Centaurea Cyanus Extract,1,Low,Sensitive Dry,Oily,Cornflower extract
+Immortelle Extract,1,Low,Oily Dry Sensitive Normal,None,Everlasting flower extract
+Helichrysum Italicum Extract,1,Low,Oily Dry Sensitive Normal,None,Immortelle flower extract
+Yarrow Extract,2,Low,Oily Dry Normal,Sensitive,Astringent herb extract
+Achillea Millefolium Extract,2,Low,Oily Dry Normal,Sensitive,Yarrow extract
+Horsetail Extract,2,Low,Oily Dry Normal,Sensitive,Silica rich plant extract
+Equisetum Arvense Extract,2,Low,Oily Dry Normal,Sensitive,Horsetail extract
+Nettle Extract,2,Low,Oily Dry Normal,Sensitive,Mineral rich herb extract
+Urtica Dioica Extract,2,Low,Oily Dry Normal,Sensitive,Stinging nettle extract
+Dandelion Extract,1,Low,Oily Dry Sensitive Normal,None,Detoxifying herb extract
+Taraxacum Officinale Extract,1,Low,Oily Dry Sensitive Normal,None,Dandelion extract
+Burdock Extract,2,Low,Oily Dry Normal,Sensitive,Clarifying root extract
+Arctium Lappa Extract,2,Low,Oily Dry Normal,Sensitive,Burdock root extract
+Milk Thistle Extract,2,Low,Oily Dry Normal,Sensitive,Liver supporting herb
+Silybum Marianum Extract,2,Low,Oily Dry Normal,Sensitive,Milk thistle extract
+Artichoke Extract,2,Low,Oily Dry Normal,Sensitive,Antioxidant vegetable extract
+Cynara Scolymus Extract,2,Low,Oily Dry Normal,Sensitive,Artichoke leaf extract
+Fennel Extract,2,Low,Oily Dry Normal,Sensitive,Soothing herb extract
+Foeniculum Vulgare Extract,2,Low,Oily Dry Normal,Sensitive,Fennel seed extract
+Anise Extract,2,Low,Oily Dry Normal,Sensitive,Licorice scented herb
+Pimpinella Anisum Extract,2,Low,Oily Dry Normal,Sensitive,Anise seed extract
+Caraway Extract,2,Low,Oily Dry Normal,Sensitive,Spicy herb extract
+Carum Carvi Extract,2,Low,Oily Dry Normal,Sensitive,Caraway seed extract
+Coriander Extract,2,Low,Oily Dry Normal,Sensitive,Herbal extract
+Coriandrum Sativum Extract,2,Low,Oily Dry Normal,Sensitive,Coriander leaf/seed extract
+Parsley Extract,2,Low,Oily Dry Normal,Sensitive,Vitamin rich herb
+Petroselinum Crispum Extract,2,Low,Oily Dry Normal,Sensitive,Parsley extract
+Cilantro Extract,2,Low,Oily Dry Normal,Sensitive,Fresh coriander leaf
+Coriandrum Sativum Leaf Extract,2,Low,Oily Dry Normal,Sensitive,Cilantro extract
+Basil Extract,2,Low,Oily Dry Normal,Sensitive,Aromatic herb extract
+Ocimum Basilicum Extract,2,Low,Oily Dry Normal,Sensitive,Basil leaf extract
+Holy Basil Extract,2,Low,Oily Dry Normal,Sensitive,Tulsi sacred basil
+Ocimum Sanctum Extract,2,Low,Oily Dry Normal,Sensitive,Holy basil extract
+Rosemary Extract,2,Low,Oily Dry Normal,Sensitive,Antioxidant herb extract
+Rosmarinus Officinalis Extract,2,Low,Oily Dry Normal,Sensitive,Rosemary leaf extract
+Thyme Extract,2,Low,Oily Dry Normal,Sensitive,Antimicrobial herb extract
+Thymus Vulgaris Extract,2,Low,Oily Dry Normal,Sensitive,Thyme extract
+Oregano Extract,3,Moderate,Oily Normal,Sensitive,Potent antimicrobial herb
+Origanum Vulgare Extract,3,Moderate,Oily Normal,Sensitive,Oregano extract
+Marjoram Extract,2,Low,Oily Dry Normal,Sensitive,Gentle aromatic herb
+Origanum Majorana Extract,2,Low,Oily Dry Normal,Sensitive,Marjoram extract
+Sage Extract,2,Low,Oily Dry Normal,Sensitive,Clarifying herb extract
+Salvia Officinalis Extract,2,Low,Oily Dry Normal,Sensitive,Garden sage extract
+Clary Sage Extract,2,Low,Oily Dry Normal,Sensitive,Hormone balancing herb
+Salvia Sclarea Extract,2,Low,Oily Dry Normal,Sensitive,Clary sage extract
+Mint Extract,2,Low,Oily Dry Normal,Sensitive,Refreshing herb extract
+Mentha Piperita Extract,2,Low,Oily Dry Normal,Sensitive,Peppermint extract
+Mentha Spicata Extract,2,Low,Oily Dry Normal,Sensitive,Spearmint extract
+Mentha Arvensis Extract,2,Low,Oily Dry Normal,Sensitive,Cornmint extract
+Mentha Pulegium Extract,2,Low,Oily Dry Normal,Sensitive,Pennyroyal mint
+Mentha Aquatica Extract,2,Low,Oily Dry Normal,Sensitive,Water mint extract
+Mentha Citrata Extract,2,Low,Oily Dry Normal,Sensitive,Bergamot mint
+Mentha Suaveolens Extract,2,Low,Oily Dry Normal,Sensitive,Apple mint extract
+Mentha Longifolia Extract,2,Low,Oily Dry Normal,Sensitive,Horsemint extract
+Lemon Balm Extract,1,Low,Sensitive Dry,Oily,Soothing herb extract
+Melissa Officinalis Extract,1,Low,Sensitive Dry,Oily,Lemon balm extract
+Lemongrass Extract,3,Moderate,Oily Normal,Sensitive,Citrusy grass extract
+Cymbopogon Citratus Extract,3,Moderate,Oily Normal,Sensitive,Lemongrass extract
+Citronella Extract,3,Moderate,Oily Normal,Sensitive,Insect repelling plant
+Cymbopogon Nardus Extract,3,Moderate,Oily Normal,Sensitive,Citronella extract
+Palmarosa Extract,2,Low,Oily Dry Normal,Sensitive,Geranium scented grass
+Cymbopogon Martini Extract,2,Low,Oily Dry Normal,Sensitive,Palmarosa extract
+Geranium Extract,2,Low,Oily Dry Normal,Sensitive,Balancing floral herb
+Pelargonium Graveolens Extract,2,Low,Oily Dry Normal,Sensitive,Geranium extract
+Pelargonium Roseum Extract,2,Low,Oily Dry Normal,Sensitive,Rose geranium extract
+Patchouli Extract,2,Low,Oily Dry Normal,Sensitive,Earthy grounding herb
+Pogostemon Cablin Extract,2,Low,Oily Dry Normal,Sensitive,Patchouli extract
+Vetiver Extract,2,Low,Oily Dry Normal,Sensitive,Earthy grounding root
+Vetiveria Zizanoides Extract,2,Low,Oily Dry Normal,Sensitive,Vetiver extract
+Sandalwood Extract,2,Low,Oily Dry Normal,Sensitive,Woody calming extract
+Santalum Album Extract,2,Low,Oily Dry Normal,Sensitive,Sandalwood extract
+Cedarwood Extract,2,Low,Oily Dry Normal,Sensitive,Woody grounding extract
+Cedrus Atlantica Extract,2,Low,Oily Dry Normal,Sensitive,Atlas cedarwood extract
+Juniper Extract,2,Low,Oily Dry Normal,Sensitive,Woody clarifying extract
+Juniperus Communis Extract,2,Low,Oily Dry Normal,Sensitive,Juniper berry extract
+Cypress Extract,2,Low,Oily Dry Normal,Sensitive,Astringent woody extract
+Cupressus Sempervirens Extract,2,Low,Oily Dry Normal,Sensitive,Cypress extract
+Pine Extract,2,Low,Oily Dry Normal,Sensitive,Forest pine extract
+Pinus Sylvestris Extract,2,Low,Oily Dry Normal,Sensitive,Scots pine extract
+Fir Extract,2,Low,Oily Dry Normal,Sensitive,Forest fir extract
+Abies Alba Extract,2,Low,Oily Dry Normal,Sensitive,Silver fir extract
+Spruce Extract,2,Low,Oily Dry Normal,Sensitive,Forest spruce extract
+Picea Abies Extract,2,Low,Oily Dry Normal,Sensitive,Norway spruce extract
+Birch Extract,2,Low,Oily Dry Normal,Sensitive,Tree bark extract
+Betula Alba Extract,2,Low,Oily Dry Normal,Sensitive,White birch extract
+Betula Pendula Extract,2,Low,Oily Dry Normal,Sensitive,Silver birch extract
+Willow Bark Extract,3,Moderate,Oily Normal,Sensitive,Natural salicin source
+Salix Alba Extract,3,Moderate,Oily Normal,Sensitive,White willow bark
+Salix Nigra Extract,3,Moderate,Oily Normal,Sensitive,Black willow bark
+Salix Purpurea Extract,3,Moderate,Oily Normal,Sensitive,Purple willow bark
+Oak Bark Extract,2,Low,Oily Dry Normal,Sensitive,Astringent tree bark
+Quercus Robur Extract,2,Low,Oily Dry Normal,Sensitive,English oak bark
+Chestnut Extract,2,Low,Oily Dry Normal,Sensitive,Astringent tree extract
+Castanea Sativa Extract,2,Low,Oily Dry Normal,Sensitive,Sweet chestnut extract
+Hamamelis Virginiana Extract,3,Moderate,Oily,Dry Sensitive,Witch hazel distillate
+Witch Hazel Water,3,Moderate,Oily,Dry Sensitive,Witch hazel hydrosol
+Hamamelis Water,3,Moderate,Oily,Dry Sensitive,Witch hazel distillate
+Rose Water,0,Low,Oily Dry Sensitive Normal,None,Rose hydrosol floral water
+Rosa Damascena Flower Water,0,Low,Oily Dry Sensitive Normal,None,Rose hydrosol
+Lavender Water,0,Low,Oily Dry Sensitive Normal,None,Lavender hydrosol
+Lavandula Angustifolia Flower Water,0,Low,Oily Dry Sensitive Normal,None,Lavender hydrosol
+Chamomile Water,0,Low,Sensitive Dry,Oily,Chamomile hydrosol
+Matricaria Recutita Flower Water,0,Low,Sensitive Dry,Oily,Chamomile hydrosol
+Orange Flower Water,0,Low,Oily Dry Sensitive Normal,None,Neroli hydrosol
+Citrus Aurantium Amara Flower Water,0,Low,Oily Dry Sensitive Normal,None,Neroli hydrosol
+Peppermint Water,2,Low,Oily Dry Normal,Sensitive,Peppermint hydrosol
+Mentha Piperita Flower Water,2,Low,Oily Dry Normal,Sensitive,Peppermint hydrosol
+Witch Hazel Distillate,3,Moderate,Oily,Dry Sensitive,Distilled witch hazel
+Hamamelis Virginiana Distillate,3,Moderate,Oily,Dry Sensitive,Witch hazel distillate
+Cucumber Water,0,Low,Oily Dry Sensitive Normal,None,Cucumber hydrosol
+Cucumis Sativus Fruit Water,0,Low,Oily Dry Sensitive Normal,None,Cucumber water
+Aloe Vera Water,0,Low,Oily Dry Sensitive Normal,None,Aloe leaf water
+Aloe Barbadensis Leaf Water,0,Low,Oily Dry Sensitive Normal,None,Aloe vera water
+Witch Hazel Extract,3,Moderate,Oily,Dry Sensitive,Extracted witch hazel
+Hamamelis Virginiana Extract,3,Moderate,Oily,Dry Sensitive,Witch hazel extract
+Centaurea Cyanus Flower Water,0,Low,Sensitive Dry,Oily,Cornflower hydrosol
+Cornflower Water,0,Low,Sensitive Dry,Oily,Cornflower hydrosol
+Elderflower Water,0,Low,Oily Dry Sensitive Normal,None,Elderflower hydrosol
+Sambucus Nigra Flower Water,0,Low,Oily Dry Sensitive Normal,None,Elderflower hydrosol
+Lime Blossom Water,0,Low,Sensitive Dry,Oily,Linden flower hydrosol
+Tilia Cordata Flower Water,0,Low,Sensitive Dry,Oily,Linden hydrosol
+Rose Geranium Water,0,Low,Oily Dry Sensitive Normal,None,Geranium hydrosol
+Pelargonium Graveolens Flower Water,0,Low,Oily Dry Sensitive Normal,None,Geranium hydrosol
+Lemon Balm Water,0,Low,Sensitive Dry,Oily,Melissa hydrosol
+Melissa Officinalis Flower Water,0,Low,Sensitive Dry,Oily,Lemon balm hydrosol
+Yarrow Water,2,Low,Oily Dry Normal,Sensitive,Yarrow hydrosol
+Achillea Millefolium Flower Water,2,Low,Oily Dry Normal,Sensitive,Yarrow hydrosol
+Calendula Water,0,Low,Sensitive Dry,Oily,Calendula hydrosol
+Calendula Officinalis Flower Water,0,Low,Sensitive Dry,Oily,Calendula hydrosol
+Arnica Water,2,Low,Oily Dry Normal,Sensitive,Arnica hydrosol
+Arnica Montana Flower Water,2,Low,Oily Dry Normal,Sensitive,Arnica hydrosol
